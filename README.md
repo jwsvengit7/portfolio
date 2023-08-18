@@ -4,10 +4,6 @@ A simple portfolio starter theme built with React and Tailwind CSS. This is the 
 
 
 
-## Demo URL
-
-[https://react-tailwindcss-portfolio.netlify.app](https://react-tailwindcss-portfolio.netlify.app)
-
 
 
 ## Features
